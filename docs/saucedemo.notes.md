@@ -14,3 +14,6 @@
 
 ## My observations
 - One thing I'd test first and why:
+
+## Jira
+- Practice story: SCRUM-5 (locked-out user error)
