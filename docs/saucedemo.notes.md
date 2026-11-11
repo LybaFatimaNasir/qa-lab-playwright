@@ -9,7 +9,7 @@
 - What I saw:
 
 ## Restful-Booker check
-- GET /ping returned ... (status code)
+- GET /ping returned ... (status code)- 201 created
 - GET /booking returned ... (status code and shape of the body)
 
 ## My observations
